@@ -4,6 +4,8 @@ maintainer_email 'rupaligangarde11@gmail.com'
 license 'all_rights'
 description 'Installs/Configures azure-infra'
 long_description 'Installs/Configures azure-infra'
+source_url       'https://github.com/rupaligangarde11/azure-infra'
+issues_url       'https://github.com/rupaligangarde11/azure-infra/issues'
 version '0.1.0'
 
 # If you upload to Supermarket you should set this so your cookbook
