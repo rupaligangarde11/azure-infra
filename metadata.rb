@@ -1,6 +1,6 @@
 name 'azure-infra'
 maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer_email 'rupaligangarde11@gmail.com'
 license 'all_rights'
 description 'Installs/Configures azure-infra'
 long_description 'Installs/Configures azure-infra'
